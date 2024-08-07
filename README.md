@@ -6,7 +6,6 @@ Welcome to the Spotify Clone project! This project aims to replicate some of the
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
