@@ -27,24 +27,6 @@ This project is a clone of Spotify, built to demonstrate front-end development s
 - CSS
 - JavaScript
 
-## Setup
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/spotify-clone.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd spotify-clone
-   ```
-
-3. **Open `index.html` in your web browser:**
-   ```bash
-   open index.html
-   ```
-
 ## Usage
 - Open the `index.html` file in a web browser.
 - Use the play/pause button to control the music.
