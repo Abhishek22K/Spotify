@@ -1,4 +1,4 @@
-# Spotify
+# Spotify Clone
 
 Welcome to the Spotify Clone project! This project aims to replicate some of the core features of the popular music streaming service, Spotify.
 
@@ -52,7 +52,8 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 Include screenshots of your project to give users a visual overview. For example:
-![Screenshot of Spotify Clone](C:\Users\Abhishek\OneDrive\Desktop\screen)
+![Screenshot of Spotify Clone](![Screenshot 2024-08-07 115751](https://github.com/user-attachments/assets/27e67b42-b3a9-46cf-9836-e0a5b6590930)
+)
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
