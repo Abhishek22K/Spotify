@@ -32,7 +32,7 @@ This project is a clone of Spotify, built to demonstrate front-end development s
 - Navigate through the song list and click on any song to play it.
 
 ## Screenshots
-![Screenshot of Spotify Clone](![Screenshot 2024-08-07 115751](https://github.com/user-attachments/assets/27e67b42-b3a9-46cf-9836-e0a5b6590930)
+![Screenshot 2024-08-07 115751](https://github.com/user-attachments/assets/27e67b42-b3a9-46cf-9836-e0a5b6590930)
 
 
 ## Contributing
